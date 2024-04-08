@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Grasp and lift of an object",
+    "imageSrc": "projects/project.png",
+    "description": "This project describe the classification of GAL events using CNN and LSTM of EEG signal",
+    "skills": ["Python ","Cnn","Pandas","LSTM"],
+    "demo": "",
+    "source": "https://github.com/Manishkumawa/Grasp_and_lift_cnn.git"
+  },
+  {
+    "title": "Banking System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn and understand the concept of c++ ,object oriented programming",
+    "skills": ["C++","OOPS"],
+    "demo": "",
+    "source": "https://github.com/Manishkumawa/Bank_system_cpp.git"
+  },
+  {
+    "title": "Django File app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the tech stack like Djnago ,Javascript ,bootstrap",
+    "skills": ["Html","CSS","Django","JavaScript","Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/Manishkumawa/Django_file_app.git"
+  }
+]
